@@ -14,5 +14,5 @@ the way to the top of Cplusplus
   - 全局函数做为类的友元；
   - 类作为类的友元
   - 类的成员函数作为友元 [友元类] (./友元类.ccp)
-  - [Your Title](road_cplusplus/友元类.cpp)
+  - [Your Title](./友元类.cpp)
    
