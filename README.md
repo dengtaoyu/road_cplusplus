@@ -14,5 +14,8 @@ the way to the top of Cplusplus
   - 全局函数做为类的友元；
   - [类作为类的友元](./友元.cpp)
   - [类的成员函数作为友元](./友元类.cpp)
+- 运算符重载
+  - [加法运算符重载](./)
+  - 左移运算符重载
    
 [计算系统](https://www.cnblogs.com/zhaoyl/archive/2012/05/15/2501972.html)
