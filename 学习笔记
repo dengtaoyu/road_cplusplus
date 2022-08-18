@@ -1,0 +1,14 @@
+## 寄存器
+  ### 分类
+        - 通用寄存器：
+          1. 数据寄存器：1.1累加寄存器（AX：accumulator）、1.2地址寄存器（BX：Base）、1.3计数寄存器（CX：count）、1.4数据寄存器（DX：data）
+          2. 指针寄存器：2.1堆栈指针寄存器（SP：stack pointer）、 2.2 基指针寄存器（BP：base pointer）
+          3. 变地址寄存器：3.1源变地址寄存器（SI：source index）、3.2目的变址寄存器（destination index）
+        - 控制寄存器：
+          1. IP（instruction pointer） 指令指针寄存器；
+          2. FLAG：标志寄存器；
+        - 段寄存器：
+          1. CS（code segement）：代码段寄存器；
+          2. DS （data segement）：数据段寄存器；
+          3. SS （stack segement）：堆栈段寄存器；
+          4. ES （extra segement）：附加段寄存器；
